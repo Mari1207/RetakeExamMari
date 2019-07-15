@@ -1,0 +1,7 @@
+C:\Developping\RetakeExamMARI\RetakeExamMARI\bin\Debug\RetakeExamMARI.exe.config
+C:\Developping\RetakeExamMARI\RetakeExamMARI\bin\Debug\RetakeExamMARI.exe
+C:\Developping\RetakeExamMARI\RetakeExamMARI\bin\Debug\RetakeExamMARI.pdb
+C:\Developping\RetakeExamMARI\RetakeExamMARI\obj\Debug\RetakeExamMARI.csprojAssemblyReference.cache
+C:\Developping\RetakeExamMARI\RetakeExamMARI\obj\Debug\RetakeExamMARI.csproj.CoreCompileInputs.cache
+C:\Developping\RetakeExamMARI\RetakeExamMARI\obj\Debug\RetakeExamMARI.exe
+C:\Developping\RetakeExamMARI\RetakeExamMARI\obj\Debug\RetakeExamMARI.pdb
